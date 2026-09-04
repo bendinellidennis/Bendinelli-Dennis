@@ -1,0 +1,18 @@
+DENNIS BENDINELLI — PORTFOLIO COMPLETO FINAL
+
+Contenuto:
+- index.html: galleria mobile/desktop IT-EN con lightbox
+- 5 cartelle lavori ordinate per progetto
+- thumbs/: anteprime ottimizzate per la galleria
+- manifest.csv: corrispondenza tra nome originale e file ordinato
+
+Categorie:
+1. Bagni uffici – Water Services Malta: 8 foto
+2. Centrale termica – Comune di Zimone (BI): 10 foto
+3. Centrali termiche: 23 foto
+4. Villa Dott. Tavolaccini: 11 foto
+5. Lavori a Malta: 70 foto
+
+Totale fotografie originali: 122
+
+Nessuna foto generata o mockup è stata inserita nel portfolio: sono state usate solo fotografie dei lavori caricate nella conversazione.
